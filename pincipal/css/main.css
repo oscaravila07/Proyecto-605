@@ -32,7 +32,7 @@ html, body { /*Toma los elementos de hmtl y body*/
   text-align: justify;
 }
 .style-text{
-  color: #fff;
+  color: #154360;
 }
 /*CARD*/
 /*Slide productos*/
@@ -50,14 +50,14 @@ section{
   height: 300px;
 }
 .card-text{
-  color: #bbb;
+  color: #154360;
   font-size: 20px;
   text-align: justify;
 }
 /*fin slide productos*/
 /*info app*/
 .info-text{
-  color: #fff;
+  color: #154360;
   font-size: 35px;
 }
 .img-app{
@@ -71,7 +71,7 @@ section{
   width: 100%;
 }
 .contac{
-  color: #66ccff;
+  color: #154360;
   font-size: 45px;
 }
 /*termina contacto*/
